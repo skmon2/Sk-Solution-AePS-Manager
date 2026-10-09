@@ -44,7 +44,6 @@ Documentation
 - "Security Policy" (SECURITY.md)
 - "License" (LICENSE)
 
-Documentation links will work after the corresponding files are added to this repository.
 
 Security and Privacy
 
